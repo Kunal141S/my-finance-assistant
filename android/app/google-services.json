@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446170854241",
+    "project_id": "myfinanceassistant-268ac",
+    "storage_bucket": "myfinanceassistant-268ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446170854241:android:e4760943d12606cfdb4b20",
+        "android_client_info": {
+          "package_name": "com.lazypanda.myfinanceassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5sW0uz1F5rxyuq8WNHkwL8VdyQ0YYt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
